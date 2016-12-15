@@ -1,0 +1,517 @@
+ There are 24 /164  Apps with MD4 in source Code 
+ There are 99 /164  Apps with MD5 in source Code 
+ There are 96 /164  Apps with SHA1 in source Code 
+ There are 157 /164  Apps with DES in source Code 
+ There are 21 /164  Apps with RC4 in source Code 
+ There are 83 /164  Apps with ECB in source Code 
+ There are 70 /164  Apps with CBC in source Code 
+ There are 96 /164  Apps with PBE in source Code 
+ There are 16 /164  Apps with OAEP in source Code 
+ There are 2 /164  Apps with UAObfuscatedString in source Code 
+ There are 3 /164  Apps with _obfuscated in source Code 
+ There are 137 /164  Apps with const in source Code 
+ There are 17 /164  Apps with 3des in source Code 
+ There are 81 /164  Apps with secret in source Code 
+ There are 15 /164  Apps with aes-128-ecb in source Code 
+ There are 15 /164  Apps with aes-192-ecb in source Code 
+ There are 15 /164  Apps with aes-256-ecb in source Code 
+ There are 0 /164  Apps with NSFileProtectionNone in source Code 
+ There are 0 /164  Apps with NSFileProtectionNone in source Code 
+
+
+
+KEYS FOUND IN APPS:
+
+
+/iOS/resultsAnalysis/strings/Pizza_Hut.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Photomath.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Realtor.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Postmates.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/AABA.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/safarianimal.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/trainer.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Abacus.coop.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/StoryTellersKit.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/ASPLib.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Arboc╠зApp.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/ArlingtonCoB.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Reader.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/SONIC.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/AoisekainotyushindeApp.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/McDonaldsKBoard.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/FlashEnglishFruitsLite.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Chipotle_WatchKit_App.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/close5.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/AbruzzoPiccoloAtlante.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Awesome_Books.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Abolition_of_Privy_Council_Jurisdiction_Act_1949.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Lumosity.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/AscentGMATPrep.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/learnthewordsanimals.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/AAP.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/ASVAB.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Arumbu_Lite.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Architekci_Umyslu.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Aarti_Collection.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/DaCosta.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/AaboutFarmAnimals.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Starbucks.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/PapaJohns.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/CountdownWidget.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Vocabulary4000.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Vivino_regular.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Caponate.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Countdown.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Keeper.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/ocean.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/abcgogoflashcardsfree.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/AberdeenFPC.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/McDonaldsGMA.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Pinnacle.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Dict.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Owl_Books.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Classroom.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Passible.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/ASach.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Controls.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/PZPlayer.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/ACTMathPrepCourse.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/ALmemSC.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/ARgame.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/GrubHub_WatchKit_Extension.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/SkyView_Free.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Cambodge.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/ClassroomShareExtension.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/ASIANA.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/SavedSearchWidget.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Tinder.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/BoletimABDT.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/AboutFruits.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/RSSNewsTodayExtension.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/DunkinDonuts.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/ZillowMap.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/ASV_Bible_Offline.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/coloringForAdultsWithAnimals.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/BiblioCommonsAurora.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/TextfreeVoice.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/PinkNation.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/abcdefg.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Lincoln.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/AriunNom.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/NewsStand.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/dd-national-ios.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/VPN.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/ASCVTS2013.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/GrubHub.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/TemplateAREL.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/DailyHoroscope.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Standalone.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/XYZ.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Khan_Academy.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/AranykonyviOS.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Kids_Learning.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Paint.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/AbuDharr.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/AsanQuran.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/SpringerLink.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/abcdrag.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/BibleHeroes-Free_copy.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/EarlyLearningAcademy.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/MLK.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/multiroom.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/ABooks.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/ccoccomom.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/WK.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Remind101.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Dominos.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/SATPrep.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Assyrian_Bible.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Smashing_Jelly.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Chipotle.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/BibliotekApp_-_Randers_copy.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Aski╠В.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Tinder_WatchKit_Extension.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Lookout.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/RaceTrac.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Atatu╠Иrk_Kronolojisi_ve_So╠Иzleri.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/arabic.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/NearbyHomesWidget.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Fit_Brains.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/happn.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/asian_investor_magazine.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Tickle.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/ENEM_App.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/SnapchatShareExt.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/AbuDhabiBookFair.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/anwaltshure2lp.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/mhospPhone.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/BlankTemplate1.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Tinder_WatchKit_App.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Asmo-Arcs.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Chipotle_WatchKit_Extension.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/GrubHub_WatchKit_App.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Bumble.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Starbucks_WatchKit_Extension.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/iPassword2.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/ABC_Alphabet_Writing_Practice_Lite.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Security.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Peak.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/OnLineLibrary.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/todayview.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Kolay─▒k_Dini_I╠Зslam.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Keeper_WatchKit_Extension.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Starbucks_WatchKit_App.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Aryageni_2_-_Free.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Keeper_Extension.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Facebook.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Aathichoodi.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/ArtScroll.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Snapchat.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/antlitzdiagnoselp.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Ark_Books.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/SND.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/KidsPlayer.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Keeper_WatchKit_App.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Papyrus.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/AandachtskaartFr.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Safari_Extension_Filling.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/ARBook1.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/DistrLiteFinal.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/AAA123Train.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/ABCs_FlashCards.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Arbitration_and_Conciliation_Act_1996.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/stbuild_template.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Aarti_Sangrah.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/Fit_Brains_WatchKit_Extension.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/NativLabsTouchAppVieweriOS.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/ABCPhonics.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/DuolingoMobile.txt
+ Detected Keys: [False, None]
+
+/iOS/resultsAnalysis/strings/tonguetwisters.txt
+ Detected Keys: [False, None]
+

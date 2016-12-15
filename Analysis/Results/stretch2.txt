@@ -1,0 +1,328 @@
+
+/Users/damiOr/Desktop/symbols/AAA123Train.txt 8
+
+/Users/damiOr/Desktop/symbols/AABA.txt 14
+
+/Users/damiOr/Desktop/symbols/AaboutFarmAnimals.txt 14
+
+/Users/damiOr/Desktop/symbols/AandachtskaartFr.txt 16
+
+/Users/damiOr/Desktop/symbols/AAP.txt 20
+
+/Users/damiOr/Desktop/symbols/Aarti_Collection.txt 25
+
+/Users/damiOr/Desktop/symbols/Aarti_Sangrah.txt 39
+
+/Users/damiOr/Desktop/symbols/Aathichoodi.txt 40
+
+/Users/damiOr/Desktop/symbols/Abacus.coop.txt 41
+
+/Users/damiOr/Desktop/symbols/ABC_Alphabet_Writing_Practice_Lite.txt 41
+
+/Users/damiOr/Desktop/symbols/abcdefg.txt 44
+
+/Users/damiOr/Desktop/symbols/abcdrag.txt 44
+
+/Users/damiOr/Desktop/symbols/abcgogoflashcardsfree.txt 44
+
+/Users/damiOr/Desktop/symbols/ABCPhonics.txt 44
+
+/Users/damiOr/Desktop/symbols/ABCs_FlashCards.txt 44
+
+/Users/damiOr/Desktop/symbols/AberdeenFPC.txt 46
+
+/Users/damiOr/Desktop/symbols/Abolition_of_Privy_Council_Jurisdiction_Act_1949.txt 46
+
+/Users/damiOr/Desktop/symbols/ABooks.txt 46
+
+/Users/damiOr/Desktop/symbols/AboutFruits.txt 46
+
+/Users/damiOr/Desktop/symbols/AbruzzoPiccoloAtlante.txt 46
+
+/Users/damiOr/Desktop/symbols/AbuDhabiBookFair.txt 46
+
+/Users/damiOr/Desktop/symbols/AbuDharr.txt 46
+
+/Users/damiOr/Desktop/symbols/ACTMathPrepCourse.txt 48
+
+/Users/damiOr/Desktop/symbols/ALmemSC.txt 48
+
+/Users/damiOr/Desktop/symbols/antlitzdiagnoselp.txt 48
+
+/Users/damiOr/Desktop/symbols/anwaltshure2lp.txt 48
+
+/Users/damiOr/Desktop/symbols/AoisekainotyushindeApp.txt 57
+
+/Users/damiOr/Desktop/symbols/arabic.txt 57
+
+/Users/damiOr/Desktop/symbols/AranykonyviOS.txt 57
+
+/Users/damiOr/Desktop/symbols/Arbitration_and_Conciliation_Act_1996.txt 57
+
+/Users/damiOr/Desktop/symbols/Arboc╠зApp.txt 57
+
+/Users/damiOr/Desktop/symbols/ARBook1.txt 57
+
+/Users/damiOr/Desktop/symbols/Architekci_Umyslu.txt 57
+
+/Users/damiOr/Desktop/symbols/ARgame.txt 60
+
+/Users/damiOr/Desktop/symbols/AriunNom.txt 60
+
+/Users/damiOr/Desktop/symbols/Ark_Books.txt 60
+
+/Users/damiOr/Desktop/symbols/ArlingtonCoB.txt 60
+
+/Users/damiOr/Desktop/symbols/ArtScroll.txt 62
+
+/Users/damiOr/Desktop/symbols/Arumbu_Lite.txt 62
+
+/Users/damiOr/Desktop/symbols/Aryageni_2_-_Free.txt 62
+
+/Users/damiOr/Desktop/symbols/ASach.txt 62
+
+/Users/damiOr/Desktop/symbols/AsanQuran.txt 62
+
+/Users/damiOr/Desktop/symbols/AscentGMATPrep.txt 62
+
+/Users/damiOr/Desktop/symbols/ASCVTS2013.txt 62
+
+/Users/damiOr/Desktop/symbols/asian_investor_magazine.txt 63
+
+/Users/damiOr/Desktop/symbols/ASIANA.txt 63
+
+/Users/damiOr/Desktop/symbols/Aski╠В.txt 63
+
+/Users/damiOr/Desktop/symbols/Asmo-Arcs.txt 63
+
+/Users/damiOr/Desktop/symbols/ASPLib.txt 63
+
+/Users/damiOr/Desktop/symbols/Assyrian_Bible.txt 63
+
+/Users/damiOr/Desktop/symbols/ASV_Bible_Offline.txt 63
+
+/Users/damiOr/Desktop/symbols/ASVAB.txt 63
+
+/Users/damiOr/Desktop/symbols/Atatu╠Иrk_Kronolojisi_ve_So╠Иzleri.txt 63
+
+/Users/damiOr/Desktop/symbols/Awesome_Books.txt 63
+
+/Users/damiOr/Desktop/symbols/BibleHeroes-Free_copy.txt 63
+
+/Users/damiOr/Desktop/symbols/BiblioCommonsAurora.txt 63
+
+/Users/damiOr/Desktop/symbols/BibliotekApp_-_Randers_copy.txt 63
+
+/Users/damiOr/Desktop/symbols/BlankTemplate1.txt 63
+
+/Users/damiOr/Desktop/symbols/BoletimABDT.txt 63
+
+/Users/damiOr/Desktop/symbols/Bumble.txt 69
+
+/Users/damiOr/Desktop/symbols/Cambodge.txt 69
+
+/Users/damiOr/Desktop/symbols/Caponate.txt 69
+
+/Users/damiOr/Desktop/symbols/ccoccomom.txt 69
+
+/Users/damiOr/Desktop/symbols/Chipotle.txt 69
+
+/Users/damiOr/Desktop/symbols/Chipotle_WatchKit_App.txt 70
+
+/Users/damiOr/Desktop/symbols/Chipotle_WatchKit_Extension.txt 73
+
+/Users/damiOr/Desktop/symbols/Classroom.txt 74
+
+/Users/damiOr/Desktop/symbols/ClassroomShareExtension.txt 74
+
+/Users/damiOr/Desktop/symbols/close5.txt 74
+
+/Users/damiOr/Desktop/symbols/coloringForAdultsWithAnimals.txt 74
+
+/Users/damiOr/Desktop/symbols/Controls.txt 75
+
+/Users/damiOr/Desktop/symbols/Countdown.txt 77
+
+/Users/damiOr/Desktop/symbols/CountdownWidget.txt 77
+
+/Users/damiOr/Desktop/symbols/DaCosta.txt 77
+
+/Users/damiOr/Desktop/symbols/DailyHoroscope.txt 77
+
+/Users/damiOr/Desktop/symbols/dd-national-ios.txt 77
+
+/Users/damiOr/Desktop/symbols/Dict.txt 78
+
+/Users/damiOr/Desktop/symbols/DistrLiteFinal.txt 78
+
+/Users/damiOr/Desktop/symbols/Dominos.txt 81
+
+/Users/damiOr/Desktop/symbols/DunkinDonuts.txt 81
+
+/Users/damiOr/Desktop/symbols/DuolingoMobile.txt 81
+
+/Users/damiOr/Desktop/symbols/EarlyLearningAcademy.txt 81
+
+/Users/damiOr/Desktop/symbols/ENEM_App.txt 81
+
+/Users/damiOr/Desktop/symbols/Facebook.txt 81
+
+/Users/damiOr/Desktop/symbols/Fit_Brains.txt 81
+
+/Users/damiOr/Desktop/symbols/Fit_Brains_WatchKit_Extension.txt 81
+
+/Users/damiOr/Desktop/symbols/FlashEnglishFruitsLite.txt 81
+
+/Users/damiOr/Desktop/symbols/GrubHub.txt 82
+
+/Users/damiOr/Desktop/symbols/GrubHub_WatchKit_App.txt 82
+
+/Users/damiOr/Desktop/symbols/GrubHub_WatchKit_Extension.txt 82
+
+/Users/damiOr/Desktop/symbols/happn.txt 85
+
+/Users/damiOr/Desktop/symbols/iPassword2.txt 85
+
+/Users/damiOr/Desktop/symbols/Keeper.txt 85
+
+/Users/damiOr/Desktop/symbols/Keeper_Extension.txt 85
+
+/Users/damiOr/Desktop/symbols/Keeper_WatchKit_App.txt 85
+
+/Users/damiOr/Desktop/symbols/Keeper_WatchKit_Extension.txt 85
+
+/Users/damiOr/Desktop/symbols/Khan_Academy.txt 92
+
+/Users/damiOr/Desktop/symbols/Kids_Learning.txt 92
+
+/Users/damiOr/Desktop/symbols/KidsPlayer.txt 92
+
+/Users/damiOr/Desktop/symbols/Kolay─▒k_Dini_I╠Зslam.txt 92
+
+/Users/damiOr/Desktop/symbols/learnthewordsanimals.txt 94
+
+/Users/damiOr/Desktop/symbols/Lincoln.txt 94
+
+/Users/damiOr/Desktop/symbols/Lookout.txt 94
+
+/Users/damiOr/Desktop/symbols/Lumosity.txt 94
+
+/Users/damiOr/Desktop/symbols/McDonaldsGMA.txt 94
+
+/Users/damiOr/Desktop/symbols/McDonaldsKBoard.txt 94
+
+/Users/damiOr/Desktop/symbols/mhospPhone.txt 94
+
+/Users/damiOr/Desktop/symbols/MLK.txt 94
+
+/Users/damiOr/Desktop/symbols/multiroom.txt 94
+
+/Users/damiOr/Desktop/symbols/NativLabsTouchAppVieweriOS.txt 94
+
+/Users/damiOr/Desktop/symbols/NearbyHomesWidget.txt 94
+
+/Users/damiOr/Desktop/symbols/NewsStand.txt 94
+
+/Users/damiOr/Desktop/symbols/ocean.txt 94
+
+/Users/damiOr/Desktop/symbols/OnLineLibrary.txt 94
+
+/Users/damiOr/Desktop/symbols/Owl_Books.txt 94
+
+/Users/damiOr/Desktop/symbols/Paint.txt 94
+
+/Users/damiOr/Desktop/symbols/PapaJohns.txt 94
+
+/Users/damiOr/Desktop/symbols/Papyrus.txt 94
+
+/Users/damiOr/Desktop/symbols/Passible.txt 95
+
+/Users/damiOr/Desktop/symbols/Peak.txt 99
+
+/Users/damiOr/Desktop/symbols/Photomath.txt 99
+
+/Users/damiOr/Desktop/symbols/PinkNation.txt 99
+
+/Users/damiOr/Desktop/symbols/Pinnacle.txt 99
+
+/Users/damiOr/Desktop/symbols/Pizza_Hut.txt 99
+
+/Users/damiOr/Desktop/symbols/Postmates.txt 114
+
+/Users/damiOr/Desktop/symbols/PZPlayer.txt 114
+
+/Users/damiOr/Desktop/symbols/RaceTrac.txt 114
+
+/Users/damiOr/Desktop/symbols/Reader.txt 114
+
+/Users/damiOr/Desktop/symbols/Realtor.txt 114
+
+/Users/damiOr/Desktop/symbols/Remind101.txt 114
+
+/Users/damiOr/Desktop/symbols/RSSNewsTodayExtension.txt 114
+
+/Users/damiOr/Desktop/symbols/Safari_Extension_Filling.txt 114
+
+/Users/damiOr/Desktop/symbols/safarianimal.txt 114
+
+/Users/damiOr/Desktop/symbols/SATPrep.txt 114
+
+/Users/damiOr/Desktop/symbols/SavedSearchWidget.txt 114
+
+/Users/damiOr/Desktop/symbols/Security.txt 114
+
+/Users/damiOr/Desktop/symbols/SkyView_Free.txt 114
+
+/Users/damiOr/Desktop/symbols/Smashing_Jelly.txt 114
+
+/Users/damiOr/Desktop/symbols/Snapchat.txt 117
+
+/Users/damiOr/Desktop/symbols/SnapchatShareExt.txt 117
+
+/Users/damiOr/Desktop/symbols/SND.txt 117
+
+/Users/damiOr/Desktop/symbols/SONIC.txt 117
+
+/Users/damiOr/Desktop/symbols/SpringerLink.txt 117
+
+/Users/damiOr/Desktop/symbols/Standalone.txt 117
+
+/Users/damiOr/Desktop/symbols/Starbucks.txt 117
+
+/Users/damiOr/Desktop/symbols/Starbucks_WatchKit_App.txt 117
+
+/Users/damiOr/Desktop/symbols/Starbucks_WatchKit_Extension.txt 117
+
+/Users/damiOr/Desktop/symbols/stbuild_template.txt 117
+
+/Users/damiOr/Desktop/symbols/StoryTellersKit.txt 117
+
+/Users/damiOr/Desktop/symbols/TemplateAREL.txt 117
+
+/Users/damiOr/Desktop/symbols/TextfreeVoice.txt 117
+
+/Users/damiOr/Desktop/symbols/Tickle.txt 117
+
+/Users/damiOr/Desktop/symbols/Tinder.txt 117
+
+/Users/damiOr/Desktop/symbols/Tinder_WatchKit_App.txt 117
+
+/Users/damiOr/Desktop/symbols/Tinder_WatchKit_Extension.txt 117
+
+/Users/damiOr/Desktop/symbols/todayview.txt 117
+
+/Users/damiOr/Desktop/symbols/tonguetwisters.txt 117
+
+/Users/damiOr/Desktop/symbols/trainer.txt 117
+
+/Users/damiOr/Desktop/symbols/Vivino_regular.txt 117
+
+/Users/damiOr/Desktop/symbols/Vocabulary4000.txt 117
+
+/Users/damiOr/Desktop/symbols/VPN.txt 118
+
+/Users/damiOr/Desktop/symbols/WK.txt 118
+
+/Users/damiOr/Desktop/symbols/XYZ.txt 118
+
+/Users/damiOr/Desktop/symbols/ZillowMap.txt 118

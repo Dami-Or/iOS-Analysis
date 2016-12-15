@@ -1,0 +1,328 @@
+/Users/damiOr/Desktop/otool/AAA123Train.txt 17
+
+/Users/damiOr/Desktop/otool/AABA.txt 37
+
+/Users/damiOr/Desktop/otool/AaboutFarmAnimals.txt 17
+
+/Users/damiOr/Desktop/otool/AandachtskaartFr.txt 38
+
+/Users/damiOr/Desktop/otool/AAP.txt 413
+
+/Users/damiOr/Desktop/otool/Aarti_Collection.txt 14
+
+/Users/damiOr/Desktop/otool/Aarti_Sangrah.txt 1344
+
+/Users/damiOr/Desktop/otool/Aathichoodi.txt 18
+
+/Users/damiOr/Desktop/otool/Abacus.coop.txt 275
+
+/Users/damiOr/Desktop/otool/ABC_Alphabet_Writing_Practice_Lite.txt 144
+
+/Users/damiOr/Desktop/otool/abcdefg.txt 87
+
+/Users/damiOr/Desktop/otool/abcdrag.txt 195
+
+/Users/damiOr/Desktop/otool/abcgogoflashcardsfree.txt 359
+
+/Users/damiOr/Desktop/otool/ABCPhonics.txt 226
+
+/Users/damiOr/Desktop/otool/ABCs_FlashCards.txt 4
+
+/Users/damiOr/Desktop/otool/AberdeenFPC.txt 411
+
+/Users/damiOr/Desktop/otool/Abolition_of_Privy_Council_Jurisdiction_Act_1949.txt 178
+
+/Users/damiOr/Desktop/otool/ABooks.txt 326
+
+/Users/damiOr/Desktop/otool/AboutFruits.txt 17
+
+/Users/damiOr/Desktop/otool/AbruzzoPiccoloAtlante.txt 87
+
+/Users/damiOr/Desktop/otool/AbuDhabiBookFair.txt 16
+
+/Users/damiOr/Desktop/otool/AbuDharr.txt 6
+
+/Users/damiOr/Desktop/otool/ACTMathPrepCourse.txt 124
+
+/Users/damiOr/Desktop/otool/ALmemSC.txt 252
+
+/Users/damiOr/Desktop/otool/antlitzdiagnoselp.txt 10
+
+/Users/damiOr/Desktop/otool/anwaltshure2lp.txt 10
+
+/Users/damiOr/Desktop/otool/AoisekainotyushindeApp.txt 425
+
+/Users/damiOr/Desktop/otool/arabic.txt 229
+
+/Users/damiOr/Desktop/otool/AranykonyviOS.txt 97
+
+/Users/damiOr/Desktop/otool/Arbitration_and_Conciliation_Act_1996.txt 178
+
+/Users/damiOr/Desktop/otool/Arboc╠зApp.txt 183
+
+/Users/damiOr/Desktop/otool/ARBook1.txt 56
+
+/Users/damiOr/Desktop/otool/Architekci_Umyslu.txt 35
+
+/Users/damiOr/Desktop/otool/ARgame.txt 1325
+
+/Users/damiOr/Desktop/otool/AriunNom.txt 20
+
+/Users/damiOr/Desktop/otool/Ark_Books.txt 30
+
+/Users/damiOr/Desktop/otool/ArlingtonCoB.txt 411
+
+/Users/damiOr/Desktop/otool/ArtScroll.txt 753
+
+/Users/damiOr/Desktop/otool/Arumbu_Lite.txt 15
+
+/Users/damiOr/Desktop/otool/Aryageni_2_-_Free.txt 4
+
+/Users/damiOr/Desktop/otool/ASach.txt 340
+
+/Users/damiOr/Desktop/otool/AsanQuran.txt 77
+
+/Users/damiOr/Desktop/otool/AscentGMATPrep.txt 124
+
+/Users/damiOr/Desktop/otool/ASCVTS2013.txt 77
+
+/Users/damiOr/Desktop/otool/asian_investor_magazine.txt 833
+
+/Users/damiOr/Desktop/otool/ASIANA.txt 683
+
+/Users/damiOr/Desktop/otool/Aski╠В.txt 115
+
+/Users/damiOr/Desktop/otool/Asmo-Arcs.txt 62
+
+/Users/damiOr/Desktop/otool/ASPLib.txt 96
+
+/Users/damiOr/Desktop/otool/Assyrian_Bible.txt 2
+
+/Users/damiOr/Desktop/otool/ASV_Bible_Offline.txt 136
+
+/Users/damiOr/Desktop/otool/ASVAB.txt 146
+
+/Users/damiOr/Desktop/otool/Atatu╠Иrk_Kronolojisi_ve_So╠Иzleri.txt 170
+
+/Users/damiOr/Desktop/otool/Awesome_Books.txt 151
+
+/Users/damiOr/Desktop/otool/BibleHeroes-Free_copy.txt 622
+
+/Users/damiOr/Desktop/otool/BiblioCommonsAurora.txt 502
+
+/Users/damiOr/Desktop/otool/BibliotekApp_-_Randers_copy.txt 2
+
+/Users/damiOr/Desktop/otool/BlankTemplate1.txt 540
+
+/Users/damiOr/Desktop/otool/BoletimABDT.txt 39
+
+/Users/damiOr/Desktop/otool/Bumble.txt 3018
+
+/Users/damiOr/Desktop/otool/Cambodge.txt 158
+
+/Users/damiOr/Desktop/otool/Caponate.txt 778
+
+/Users/damiOr/Desktop/otool/ccoccomom.txt 516
+
+/Users/damiOr/Desktop/otool/Chipotle.txt 727
+
+/Users/damiOr/Desktop/otool/Chipotle_WatchKit_App.txt 0
+
+/Users/damiOr/Desktop/otool/Chipotle_WatchKit_Extension.txt 605
+
+/Users/damiOr/Desktop/otool/Classroom.txt 1575
+
+/Users/damiOr/Desktop/otool/ClassroomShareExtension.txt 1576
+
+/Users/damiOr/Desktop/otool/close5.txt 1257
+
+/Users/damiOr/Desktop/otool/coloringForAdultsWithAnimals.txt 386
+
+/Users/damiOr/Desktop/otool/Controls.txt 36
+
+/Users/damiOr/Desktop/otool/Countdown.txt 2527
+
+/Users/damiOr/Desktop/otool/CountdownWidget.txt 69
+
+/Users/damiOr/Desktop/otool/DaCosta.txt 184
+
+/Users/damiOr/Desktop/otool/DailyHoroscope.txt 592
+
+/Users/damiOr/Desktop/otool/dd-national-ios.txt 1531
+
+/Users/damiOr/Desktop/otool/Dict.txt 694
+
+/Users/damiOr/Desktop/otool/DistrLiteFinal.txt 123
+
+/Users/damiOr/Desktop/otool/Dominos.txt 1588
+
+/Users/damiOr/Desktop/otool/DunkinDonuts.txt 1056
+
+/Users/damiOr/Desktop/otool/DuolingoMobile.txt 1059
+
+/Users/damiOr/Desktop/otool/EarlyLearningAcademy.txt 508
+
+/Users/damiOr/Desktop/otool/ENEM_App.txt 500
+
+/Users/damiOr/Desktop/otool/Facebook.txt 11637
+
+/Users/damiOr/Desktop/otool/Fit_Brains.txt 0
+
+/Users/damiOr/Desktop/otool/Fit_Brains_WatchKit_Extension.txt 20
+
+/Users/damiOr/Desktop/otool/FlashEnglishFruitsLite.txt 430
+
+/Users/damiOr/Desktop/otool/GrubHub.txt 1200
+
+/Users/damiOr/Desktop/otool/GrubHub_WatchKit_App.txt 0
+
+/Users/damiOr/Desktop/otool/GrubHub_WatchKit_Extension.txt 16
+
+/Users/damiOr/Desktop/otool/happn.txt 1148
+
+/Users/damiOr/Desktop/otool/iPassword2.txt 101
+
+/Users/damiOr/Desktop/otool/Keeper.txt 577
+
+/Users/damiOr/Desktop/otool/Keeper_Extension.txt 65
+
+/Users/damiOr/Desktop/otool/Keeper_WatchKit_App.txt 0
+
+/Users/damiOr/Desktop/otool/Keeper_WatchKit_Extension.txt 22
+
+/Users/damiOr/Desktop/otool/Khan_Academy.txt 810
+
+/Users/damiOr/Desktop/otool/Kids_Learning.txt 230
+
+/Users/damiOr/Desktop/otool/KidsPlayer.txt 607
+
+/Users/damiOr/Desktop/otool/Kolay─▒k_Dini_I╠Зslam.txt 36
+
+/Users/damiOr/Desktop/otool/learnthewordsanimals.txt 263
+
+/Users/damiOr/Desktop/otool/Lincoln.txt 371
+
+/Users/damiOr/Desktop/otool/Lookout.txt 1258
+
+/Users/damiOr/Desktop/otool/Lumosity.txt 970
+
+/Users/damiOr/Desktop/otool/McDonaldsGMA.txt 2076
+
+/Users/damiOr/Desktop/otool/McDonaldsKBoard.txt 67
+
+/Users/damiOr/Desktop/otool/mhospPhone.txt 667
+
+/Users/damiOr/Desktop/otool/MLK.txt 60
+
+/Users/damiOr/Desktop/otool/multiroom.txt 119
+
+/Users/damiOr/Desktop/otool/NativLabsTouchAppVieweriOS.txt 41
+
+/Users/damiOr/Desktop/otool/NearbyHomesWidget.txt 732
+
+/Users/damiOr/Desktop/otool/NewsStand.txt 138
+
+/Users/damiOr/Desktop/otool/ocean.txt 52
+
+/Users/damiOr/Desktop/otool/OnLineLibrary.txt 140
+
+/Users/damiOr/Desktop/otool/Owl_Books.txt 176
+
+/Users/damiOr/Desktop/otool/Paint.txt 481
+
+/Users/damiOr/Desktop/otool/PapaJohns.txt 741
+
+/Users/damiOr/Desktop/otool/Papyrus.txt 747
+
+/Users/damiOr/Desktop/otool/Passible.txt 517
+
+/Users/damiOr/Desktop/otool/Peak.txt 2404
+
+/Users/damiOr/Desktop/otool/Photomath.txt 513
+
+/Users/damiOr/Desktop/otool/PinkNation.txt 1285
+
+/Users/damiOr/Desktop/otool/Pinnacle.txt 1388
+
+/Users/damiOr/Desktop/otool/Pizza_Hut.txt 300
+
+/Users/damiOr/Desktop/otool/Postmates.txt 745
+
+/Users/damiOr/Desktop/otool/PZPlayer.txt 476
+
+/Users/damiOr/Desktop/otool/RaceTrac.txt 1272
+
+/Users/damiOr/Desktop/otool/Reader.txt 393
+
+/Users/damiOr/Desktop/otool/Realtor.txt 1879
+
+/Users/damiOr/Desktop/otool/Remind101.txt 1146
+
+/Users/damiOr/Desktop/otool/RSSNewsTodayExtension.txt 31
+
+/Users/damiOr/Desktop/otool/Safari_Extension_Filling.txt 25
+
+/Users/damiOr/Desktop/otool/safarianimal.txt 52
+
+/Users/damiOr/Desktop/otool/SATPrep.txt 124
+
+/Users/damiOr/Desktop/otool/SavedSearchWidget.txt 737
+
+/Users/damiOr/Desktop/otool/Security.txt 302
+
+/Users/damiOr/Desktop/otool/SkyView_Free.txt 236
+
+/Users/damiOr/Desktop/otool/Smashing_Jelly.txt 287
+
+/Users/damiOr/Desktop/otool/Snapchat.txt 3278
+
+/Users/damiOr/Desktop/otool/SnapchatShareExt.txt 193
+
+/Users/damiOr/Desktop/otool/SND.txt 64
+
+/Users/damiOr/Desktop/otool/SONIC.txt 686
+
+/Users/damiOr/Desktop/otool/SpringerLink.txt 243
+
+/Users/damiOr/Desktop/otool/Standalone.txt 859
+
+/Users/damiOr/Desktop/otool/Starbucks.txt 1801
+
+/Users/damiOr/Desktop/otool/Starbucks_WatchKit_App.txt 0
+
+/Users/damiOr/Desktop/otool/Starbucks_WatchKit_Extension.txt 29
+
+/Users/damiOr/Desktop/otool/stbuild_template.txt 29
+
+/Users/damiOr/Desktop/otool/StoryTellersKit.txt 597
+
+/Users/damiOr/Desktop/otool/TemplateAREL.txt 13
+
+/Users/damiOr/Desktop/otool/TextfreeVoice.txt 1754
+
+/Users/damiOr/Desktop/otool/Tickle.txt 26
+
+/Users/damiOr/Desktop/otool/Tinder.txt 1325
+
+/Users/damiOr/Desktop/otool/Tinder_WatchKit_App.txt 0
+
+/Users/damiOr/Desktop/otool/Tinder_WatchKit_Extension.txt 18
+
+/Users/damiOr/Desktop/otool/todayview.txt 23
+
+/Users/damiOr/Desktop/otool/tonguetwisters.txt 290
+
+/Users/damiOr/Desktop/otool/trainer.txt 861
+
+/Users/damiOr/Desktop/otool/Vivino_regular.txt 2245
+
+/Users/damiOr/Desktop/otool/Vocabulary4000.txt 124
+
+/Users/damiOr/Desktop/otool/VPN.txt 422
+
+/Users/damiOr/Desktop/otool/WK.txt 0
+
+/Users/damiOr/Desktop/otool/XYZ.txt 700
+
+/Users/damiOr/Desktop/otool/ZillowMap.txt 3260
+
